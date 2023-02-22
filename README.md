@@ -1,4 +1,4 @@
-#Airport ✈️
+<h1>Airport ✈️</h1>
 
 We are going to develop a system that simulates the operation of an airport!
 
@@ -23,8 +23,8 @@ Requirements:
 
 Rules:
 
-1- All airport events must happen asynchronously;
-2- All data must be stored in a bank so that we can have greater control;
-3- The loading and unloading action must be chained, following real life and its stages.
+- All airport events must happen asynchronously;
+- All data must be stored in a bank so that we can have greater control;
+- The loading and unloading action must be chained, following real life and its stages.
 
 To be continued...
